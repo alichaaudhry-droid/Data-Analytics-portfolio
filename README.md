@@ -1,4 +1,4 @@
-# vedema.github.io
+# Ali.github.io
 
-# Week 0 setup completed by Vivian Edema
+# Data Analytics Github
 
